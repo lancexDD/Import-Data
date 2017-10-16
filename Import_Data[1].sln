@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Import Data", "Import Data\Import Data.csproj", "{0788D841-CBE3-46E1-AFF4-AD135D2BD446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0788D841-CBE3-46E1-AFF4-AD135D2BD446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0788D841-CBE3-46E1-AFF4-AD135D2BD446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0788D841-CBE3-46E1-AFF4-AD135D2BD446}.Debug|x86.ActiveCfg = Debug|x86
+		{0788D841-CBE3-46E1-AFF4-AD135D2BD446}.Debug|x86.Build.0 = Debug|x86
+		{0788D841-CBE3-46E1-AFF4-AD135D2BD446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0788D841-CBE3-46E1-AFF4-AD135D2BD446}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0788D841-CBE3-46E1-AFF4-AD135D2BD446}.Release|x86.ActiveCfg = Release|x86
+		{0788D841-CBE3-46E1-AFF4-AD135D2BD446}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
